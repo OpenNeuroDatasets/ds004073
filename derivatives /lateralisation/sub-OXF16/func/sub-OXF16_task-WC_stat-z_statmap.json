@@ -1,0 +1,7 @@
+{
+  "StatisticType": "Z",
+  "Description": "Voxelwise z-statistic activation map for WC task",
+  "PipelineDescription": {
+    "Name": "lateralisation"
+  }
+}
