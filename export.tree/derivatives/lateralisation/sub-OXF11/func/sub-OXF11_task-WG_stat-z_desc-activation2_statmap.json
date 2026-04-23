@@ -1,8 +1,0 @@
-{
-  "StatisticType": "Z",
-  "Description": "Voxelwise z-statistic activation map for WG task (production over baseline)",
-  "ContrastDescription": "production over baseline",
-  "PipelineDescription": {
-    "Name": "lateralisation"
-  }
-}
