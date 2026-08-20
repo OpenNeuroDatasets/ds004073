@@ -53,6 +53,7 @@ Participant sub-OXF13 did not perform the WC task.
 
 Participant sub-OXF17 was repositioned in the scanner halfway through the experiment, so has two B0 fieldmaps. 
 sub-OXF17_acq-func_run-01* should be used with SC, SD, SG and WC tasks.
-sub-OXF17_acq-func_run-02* should be used with PD and SG tasks.
+sub-OXF17_acq-func_run-02* should be used with PD and SG tasks. 
+Correction (20 Aug 2026): based on analyses the field map run-02 should be applied to PD and WG (not SG) tasks.
 
 
